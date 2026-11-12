@@ -1,0 +1,67 @@
+﻿Partido,Equipo,Tipo,Nombre / Unidad,Estado / C,LW,RW,LD,RD,Línea ML,Total,Línea Over,Línea Under
+CAR @ SEA,Carolina Hurricanes,Portero,Pyotr Kochetkov,Esperado,,,,,-300,6.5,-110,-110
+CAR @ SEA,Carolina Hurricanes,PP1,Power Play 1,J. Kotkaniemi,E. Robinson,J. Martinook,S. Gostisbehere,A. Nikishin,,,,
+CAR @ SEA,Carolina Hurricanes,PP2,Power Play 2,A. Svechnikov,N. Ehlers,J. Blake,K. Miller,Sean Walker,,,,
+CAR @ SEA,Seattle Kraken,Portero,Philipp Grubauer,Esperado,,,,,+240,6.5,-110,-110
+CAR @ SEA,Seattle Kraken,PP1,Power Play 1,M. Beniers,C. Stephenson,J. Eberle,Vince Dunn,Bobby McMann,,,,
+CAR @ SEA,Seattle Kraken,PP2,Power Play 2,B. Catton,Kaapo Kakko,M. Samoskevich,Matthew Wood,B. Montour,,,,
+COL @ OTT,Colorado Avalanche,Portero,M. Blackwood,Esperado,,,,,-120,6.5,-110,-110
+COL @ OTT,Colorado Avalanche,PP1,Power Play 1,N. MacKinnon,Martin Necas,T.J. Hughes,Nazem Kadri,Cale Makar,,,,
+COL @ OTT,Colorado Avalanche,PP2,Power Play 2,Brock Nelson,J. Schwartz,G. Landeskog,Devon Toews,A. Lehkonen,,,,
+COL @ OTT,Ottawa Senators,Portero,Linus Ullmark,Esperado,,,,,+100,6.5,-110,-110
+COL @ OTT,Ottawa Senators,PP1,Power Play 1,Tim Stutzle,C. Giroux,D. Batherson,J. Sanderson,Dylan Cozens,,,,
+COL @ OTT,Ottawa Senators,PP2,Power Play 2,S. Halliday,F. Zetterlund,Shane Pinto,T. Chabot,P. Tomasino,,,,
+WSH @ NJD,Washington Capitals,Portero,Logan Thompson,Esperado,,,,,+120,6.0,-110,-110
+WSH @ NJD,Washington Capitals,PP1,Power Play 1,Dylan Strome,Alex Tuch,Ryan Leonard,Cole Hutson,P. Dubois,,,,
+WSH @ NJD,Washington Capitals,PP2,Power Play 2,Ilya Protas,A. Ovechkin,Tom Wilson,J. Chychrun,Jordan Kyrou,,,,
+WSH @ NJD,New Jersey Devils,Portero,C. Hellebuyck,Esperado,,,,,-145,6.0,-110,-110
+WSH @ NJD,New Jersey Devils,PP1,Power Play 1,N. Hischier,Connor Brown,Jesper Bratt,Luke Hughes,Jack Hughes,,,,
+WSH @ NJD,New Jersey Devils,PP2,Power Play 2,E. Rodrigues,Timo Meier,L. Evangelista,A. Gritsyuk,D. Hamilton,,,,
+MTL @ BOS,Montreal Canadiens,Portero,Jacob Fowler,Confirmado,,,,,+105,6.0,-110,-110
+MTL @ BOS,Montreal Canadiens,PP1,Power Play 1,Nick Suzuki,Z. Bolduc,J. Slafkovsky,Lane Hutson,C. Caufield,,,,
+MTL @ BOS,Montreal Canadiens,PP2,Power Play 2,O. Kapanen,Alex Newhook,A. Texier,C. Kreider,Noah Dobson,,,,
+MTL @ BOS,Boston Bruins,Portero,Jeremy Swayman,Esperado,,,,,-125,6.0,-110,-110
+MTL @ BOS,Boston Bruins,PP1,Power Play 1,E. Lindholm,Pavel Zacha,D. Pastrnak,M. Geekie,Mason Lohrei,,,,
+MTL @ BOS,Boston Bruins,PP2,Power Play 2,F. Minten,C. Mittelstadt,M. Poitras,JJ Peterka,C. McAvoy,,,,
+MIN @ TOR,Minnesota Wild,Portero,Jesper Wallstedt,Esperado,,,,,-170,6.5,-110,-110
+MIN @ TOR,Minnesota Wild,PP1,Power Play 1,J. Eriksson Ek,K. Kaprizov,Matt Boldy,Quinn Hughes,Max Shabanov,,,,
+MIN @ TOR,Minnesota Wild,PP2,Power Play 2,Ryan Hartman,B. Coleman,Bobby Brink,Danila Yurov,J. Spurgeon,,,,
+MIN @ TOR,Toronto Maple Leafs,Portero,Sergei Bobrovsky,Esperado,,,,,+140,6.5,-110,-110
+MIN @ TOR,Toronto Maple Leafs,PP1,Power Play 1,A. Matthews,John Tavares,J. Roslovic,W. Nylander,D. Raddysh,,,,
+MIN @ TOR,Toronto Maple Leafs,PP2,Power Play 2,Nick Paul,Easton Cowan,G. McKenna,O. Ekman-Larsson,R. Tverberg,,,,
+TBL @ CBJ,Tampa Bay Lightning,Portero,Dennis Hildeby,Esperado,,,,,-115,6.5,-110,-110
+TBL @ CBJ,Tampa Bay Lightning,PP1,Power Play 1,Sam O'Reilly,J. Guentzel,N. Kucherov,C. D'Astous,John Carlson,,,,
+TBL @ CBJ,Tampa Bay Lightning,PP2,Power Play 2,A. Cirelli,Conor Geekie,P. Holmberg,V. Hedman,B. Hagel,,,,
+TBL @ CBJ,Columbus Blue Jackets,Portero,Jet Greaves,Esperado,,,,,-105,6.5,-110,-110
+TBL @ CBJ,Columbus Blue Jackets,PP1,Power Play 1,C. Coyle,M. Knies,Kent Johnson,Z. Werenski,Sean Monahan,,,,
+TBL @ CBJ,Columbus Blue Jackets,PP2,Power Play 2,A. Fantilli,V. Nichushkin,D. Voronkov,I. Provorov,D. Mateychuk,,,,
+DET @ FLA,Detroit Red Wings,Portero,John Gibson,Esperado,,,,,+140,5.5,-110,-110
+DET @ FLA,Detroit Red Wings,PP1,Power Play 1,E. Finnie,A. DeBrincat,V. Arvidsson,L. Raymond,M. Seider,,,,
+DET @ FLA,Detroit Red Wings,PP2,Power Play 2,Marco Kasper,M. Rasmussen,J.T. Compher,Ben Chiarot,Justin Faulk,,,,
+DET @ FLA,Florida Panthers,Portero,Jacob Markstrom,Esperado,,,,,-170,5.5,-110,-110
+DET @ FLA,Florida Panthers,PP1,Power Play 1,Sam Reinhart,B. Tkachuk,M. Tkachuk,C. Verhaeghe,Seth Jones,,,,
+DET @ FLA,Florida Panthers,PP2,Power Play 2,Sam Bennett,E. Luostarinen,Lars Eller,A. Lundell,Aaron Ekblad,,,,
+BUF @ CHI,Buffalo Sabres,Portero,Colten Ellis,Esperado,,,,,-145,6.5,-110,-110
+BUF @ CHI,Buffalo Sabres,PP1,Power Play 1,Noah Ostlund,Zach Benson,T. Thompson,R. Dahlin,Jack Quinn,,,,
+BUF @ CHI,Buffalo Sabres,PP2,Power Play 2,Josh Norris,Josh Doan,Jason Zucker,Owen Power,Ryan McLeod,,,,
+BUF @ CHI,Chicago Blackhawks,Portero,Spencer Knight,Esperado,,,,,+120,6.5,-110,-110
+BUF @ CHI,Chicago Blackhawks,PP1,Power Play 1,C. Bedard,R. Kantserov,T. Bertuzzi,A. Frondell,T. Teravainen,,,,
+BUF @ CHI,Chicago Blackhawks,PP2,Power Play 2,Ryan Greene,Oliver Moore,Frank Nazar,Ryan Donato,A. Levshunov,,,,
+WPG @ DAL,Winnipeg Jets,Portero,Stuart Skinner,Esperado,,,,,+150,5.5,-110,-110
+WPG @ DAL,Winnipeg Jets,PP1,Power Play 1,M. Scheifele,Kyle Connor,G. Vilardi,J. Morrissey,C. Perfetti,,,,
+WPG @ DAL,Winnipeg Jets,PP2,Power Play 2,B. Yager,Alex Iafallo,D. Mercer,Viggo Bjorck,Neal Pionk,,,,
+WPG @ DAL,Dallas Stars,Portero,Jake Oettinger,Esperado,,,,,-180,5.5,-110,-110
+WPG @ DAL,Dallas Stars,PP1,Power Play 1,W. Johnston,J. Robertson,M. Rantanen,T. Harley,Roope Hintz,,,,
+WPG @ DAL,Dallas Stars,PP2,Power Play 2,J. Hryckowian,Jamie Benn,Tyler Seguin,David Perron,Esa Lindell,,,,
+STL @ UTA,St. Louis Blues,Portero,Joel Hofer,Esperado,,,,,+110,6.5,-110,-110
+STL @ UTA,St. Louis Blues,PP1,Power Play 1,R. Thomas,J. Neighbours,J. Snuggerud,P. Broberg,M. McTavish,,,,
+STL @ UTA,St. Louis Blues,PP2,Power Play 2,C. McMichael,D. Holloway,P. Buchnevich,Cam Fowler,D. Dvorsky,,,,
+STL @ UTA,Utah Mammoth,Portero,Karel Vejmelka,Esperado,,,,,-130,6.5,-110,-110
+STL @ UTA,Utah Mammoth,PP1,Power Play 1,N. Schmaltz DTD,V. Trocheck,B. Hayton,M. Sergachev,C. Keller,,,,
+STL @ UTA,Utah Mammoth,PP2,Power Play 2,Anders Lee,Daniil But,K. Yamamoto,M. Carcone,M. Weegar,,,,
+NYI @ LAK,New York Islanders,Portero,Ilya Sorokin,Esperado,,,,,+105,5.5,-110,-110
+NYI @ LAK,New York Islanders,PP1,Power Play 1,Bo Horvat,S. Holmstrom,V. Eklund,B. Schenn,M. Schaefer,,,,
+NYI @ LAK,New York Islanders,PP2,Power Play 2,Ondrej Palat,E. Heineman,A. Duclair,K. Palmieri,T. DeAngelo,,,,
+NYI @ LAK,Los Angeles Kings,Portero,Darcy Kuemper,Esperado,,,,,-125,5.5,-110,-110
+NYI @ LAK,Los Angeles Kings,PP1,Power Play 1,A. Laferriere,A. Panarin,Adrian Kempe,Q. Byfield,B. Clarke,,,,
+NYI @ LAK,Los Angeles Kings,PP2,Power Play 2,Trevor Moore,M. Zuccarello,Erik Haula,Corey Perry,Drew Doughty DTD,,,,
